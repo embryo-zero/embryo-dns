@@ -1,0 +1,8 @@
+builder/tmp
+built_pkgs
+**/venv
+**/*.1
+!.git/**
+*.o
+*.la
+*.a
